@@ -104,7 +104,7 @@ public:
 // 4. space optimazation
 
 
-// inorder to calcuale the current result, we need only previous row of matrix
+// inorder to calculate the current result, we need only previous row of matrix
 // do you really need matrix, answer is NO
 // you can use vector List, to contain the result
 // maintain the current result, vector for future calls 
